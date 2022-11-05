@@ -79,3 +79,11 @@ h2 {
     box-shadow: none;
     transform: none;
 }
+
+#hs-btn {
+    background: linear-gradient(90deg, rgb(204, 255, 18) 0%, rgb(242, 255, 0) 100%);
+}
+
+#hs-btn:hover {
+    box-shadow: 0 0.4rem 1.4rem 0 rgb(242, 255, 0);
+}
